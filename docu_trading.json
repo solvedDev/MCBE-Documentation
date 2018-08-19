@@ -1,0 +1,526 @@
+{
+	"tiers": {
+		"type": "list",
+		"description": "",
+		"default": "",
+		"values": {
+			"list_index": {
+				"type": "object",
+				"description": "",
+				"default": "",
+				"values": {
+					"trades": {
+						"type": "list",
+						"description": "",
+						"default": "",
+						"values": {
+							"list_index": {
+								"type": "object",
+								"description": "",
+								"default": "",
+								"values": {
+									"wants": {
+										"type": "list",
+										"description": "",
+										"default": "",
+										"values": {
+											"list_index": {
+												"type": "object",
+												"description": "",
+												"default": "",
+												"values": {
+													"item": {
+														"type": "string",
+														"description": "",
+														"default": "",
+														"values": [
+															"minecraft:coal:0",
+															"minecraft:emerald",
+															"minecraft:iron_ingot",
+															"minecraft:emerald",
+															"minecraft:diamond",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:porkchop",
+															"minecraft:chicken",
+															"minecraft:coal:0",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:paper",
+															"minecraft:compass",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:compass",
+															"minecraft:emerald",
+															"minecraft:compass",
+															"minecraft:rotten_flesh",
+															"minecraft:gold_ingot",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:wheat",
+															"minecraft:potato",
+															"minecraft:carrot",
+															"minecraft:emerald",
+															"minecraft:pumpkin",
+															"minecraft:emerald",
+															"minecraft:melon_block",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:fish",
+															"minecraft:emerald",
+															"minecraft:string",
+															"minecraft:coal:0",
+															"minecraft:emerald",
+															"minecraft:string",
+															"minecraft:emerald",
+															"minecraft:gravel",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:leather",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:paper",
+															"minecraft:emerald",
+															"minecraft:book",
+															"minecraft:book",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:book",
+															"minecraft:emerald",
+															"minecraft:book",
+															"minecraft:emerald",
+															"minecraft:coal:0",
+															"minecraft:emerald",
+															"minecraft:iron_ingot",
+															"minecraft:emerald",
+															"minecraft:diamond",
+															"minecraft:emerald",
+															"minecraft:coal:0",
+															"minecraft:emerald",
+															"minecraft:iron_ingot",
+															"minecraft:emerald",
+															"minecraft:diamond",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:wool",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald"
+														]
+													},
+													"quantity": {
+														"type": "object",
+														"description": "",
+														"default": "",
+														"values": {
+															"min": {
+																"type": "number",
+																"description": "",
+																"default": "",
+																"values": [
+																	15,
+																	16,
+																	7,
+																	15,
+																	2,
+																	9,
+																	2,
+																	7,
+																	8,
+																	20,
+																	16,
+																	5,
+																	7,
+																	9,
+																	3,
+																	12,
+																	16,
+																	6,
+																	7,
+																	9,
+																	3,
+																	12,
+																	9,
+																	16,
+																	3,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1,
+																	1
+																]
+															},
+															"max": {
+																"type": "number",
+																"description": "",
+																"default": "",
+																"values": [
+																	20,
+																	24,
+																	8,
+																	20,
+																	3,
+																	12,
+																	4,
+																	12,
+																	10,
+																	22,
+																	24,
+																	7,
+																	9,
+																	10,
+																	4,
+																	15,
+																	24,
+																	8,
+																	9,
+																	10,
+																	4,
+																	15,
+																	12,
+																	22,
+																	4,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2,
+																	2
+																]
+															}
+														}
+													}
+												}
+											}
+										}
+									},
+									"gives": {
+										"type": "list",
+										"description": "",
+										"default": "",
+										"values": {
+											"list_index": {
+												"type": "object",
+												"description": "",
+												"default": "",
+												"values": {
+													"item": {
+														"type": "string",
+														"description": "",
+														"default": "",
+														"values": [
+															"minecraft:emerald",
+															"minecraft:iron_helmet",
+															"minecraft:emerald",
+															"minecraft:iron_chestplate",
+															"minecraft:emerald",
+															"minecraft:diamond_chestplate",
+															"minecraft:chainmail_boots",
+															"minecraft:chainmail_leggings",
+															"minecraft:chainmail_helmet",
+															"minecraft:chainmail_chestplate",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:cooked_porkchop",
+															"minecraft:cooked_chicken",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emptyMap",
+															"minecraft:map",
+															"minecraft:map",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:redstone",
+															"minecraft:dye:4",
+															"minecraft:glowstone",
+															"minecraft:ender_pearl",
+															"minecraft:experience_bottle",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:bread",
+															"minecraft:emerald",
+															"minecraft:pumpkin_pie",
+															"minecraft:emerald",
+															"minecraft:apple",
+															"minecraft:cookie",
+															"minecraft:cake",
+															"minecraft:cooked_fish",
+															"minecraft:emerald",
+															"minecraft:emerald",
+															"minecraft:fishing_rod",
+															"minecraft:emerald",
+															"minecraft:arrow",
+															"minecraft:flint",
+															"minecraft:bow",
+															"minecraft:emerald",
+															"minecraft:leather_leggings",
+															"minecraft:leather_chestplate",
+															"minecraft:saddle",
+															"minecraft:emerald",
+															"minecraft:enchanted_book",
+															"minecraft:emerald",
+															"minecraft:compass",
+															"minecraft:bookshelf",
+															"minecraft:clock",
+															"minecraft:glass",
+															"minecraft:enchanted_book",
+															"minecraft:enchanted_book",
+															"minecraft:name_tag",
+															"minecraft:emerald",
+															"minecraft:iron_shovel",
+															"minecraft:emerald",
+															"minecraft:iron_pickaxe",
+															"minecraft:emerald",
+															"minecraft:diamond_pickaxe",
+															"minecraft:emerald",
+															"minecraft:iron_axe",
+															"minecraft:emerald",
+															"minecraft:iron_sword",
+															"minecraft:emerald",
+															"minecraft:diamond_sword",
+															"minecraft:diamond_axe",
+															"minecraft:emerald",
+															"minecraft:shears",
+															"minecraft:wool:0",
+															"minecraft:wool:1",
+															"minecraft:wool:2",
+															"minecraft:wool:3",
+															"minecraft:wool:4",
+															"minecraft:wool:5",
+															"minecraft:wool:6",
+															"minecraft:wool:7",
+															"minecraft:wool:8",
+															"minecraft:wool:9",
+															"minecraft:wool:10",
+															"minecraft:wool:11",
+															"minecraft:wool:12",
+															"minecraft:wool:13",
+															"minecraft:wool:14",
+															"minecraft:wool:15"
+														]
+													},
+													"functions": {
+														"type": "list",
+														"description": "",
+														"default": "",
+														"values": {
+															"list_index": {
+																"type": "object",
+																"description": "",
+																"default": "",
+																"values": {
+																	"function": {
+																		"type": "string",
+																		"description": "",
+																		"default": "",
+																		"values": [
+																			"enchant_with_levels",
+																			"exploration_map",
+																			"exploration_map",
+																			"enchant_with_levels",
+																			"enchant_with_levels",
+																			"enchant_book_for_trading",
+																			"enchant_book_for_trading",
+																			"enchant_book_for_trading",
+																			"enchant_with_levels",
+																			"enchant_with_levels",
+																			"enchant_with_levels",
+																			"enchant_with_levels",
+																			"enchant_with_levels",
+																			"enchant_with_levels"
+																		]
+																	},
+																	"treasure": {
+																		"type": "boolean",
+																		"description": "",
+																		"default": "",
+																		"values": [
+																			false,
+																			false,
+																			false,
+																			false,
+																			false,
+																			false,
+																			false,
+																			false,
+																			false
+																		]
+																	},
+																	"levels": {
+																		"type": "object",
+																		"description": "",
+																		"default": "",
+																		"values": {
+																			"min": {
+																				"type": "number",
+																				"description": "",
+																				"default": "",
+																				"values": [
+																					5,
+																					5,
+																					5,
+																					5,
+																					5,
+																					5,
+																					5,
+																					5,
+																					5
+																				]
+																			},
+																			"max": {
+																				"type": "number",
+																				"description": "",
+																				"default": "",
+																				"values": [
+																					19,
+																					19,
+																					19,
+																					19,
+																					19,
+																					19,
+																					19,
+																					19,
+																					19
+																				]
+																			}
+																		}
+																	},
+																	"destination": {
+																		"type": "string",
+																		"description": "",
+																		"default": "",
+																		"values": [
+																			"monument",
+																			"mansion"
+																		]
+																	},
+																	"base_cost": {
+																		"type": "number",
+																		"description": "",
+																		"default": "",
+																		"values": [
+																			2,
+																			2,
+																			2
+																		]
+																	},
+																	"base_random_cost": {
+																		"type": "number",
+																		"description": "",
+																		"default": "",
+																		"values": [
+																			5,
+																			5,
+																			5
+																		]
+																	},
+																	"per_level_random_cost": {
+																		"type": "number",
+																		"description": "",
+																		"default": "",
+																		"values": [
+																			10,
+																			10,
+																			10
+																		]
+																	},
+																	"per_level_cost": {
+																		"type": "number",
+																		"description": "",
+																		"default": "",
+																		"values": [
+																			3,
+																			3,
+																			3
+																		]
+																	}
+																}
+															}
+														}
+													},
+													"quantity": {
+														"type": "number",
+														"description": "",
+														"default": "",
+														"values": [
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1,
+															1
+														]
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
