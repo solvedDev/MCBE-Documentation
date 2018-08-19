@@ -6,3 +6,4 @@ An attempt to create a better & reliable MCBE addon documentation which is easy 
 - better values for boolean types
 - filters to correct mistakes in the vanilla files
 - only push the same string once
+- mapping vanilla descriptions onto the new documentation
