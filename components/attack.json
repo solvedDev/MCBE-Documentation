@@ -1,0 +1,35 @@
+{
+    "title": "minecraft:attack",
+    "description": "...",
+    "structure": {
+        "damage": {
+            "description": "",
+            "default": "-",
+            "variants": [
+                {
+                    "type": "Integer"
+                },
+                {
+                    "type": "Array"
+                }
+            ]
+        },
+        "effect_name": {
+            "description": "",
+            "default": "-",
+            "type": "String",
+            "minecraft_type": "Effect"
+        }
+    },
+    "known_problems": [
+        {
+            "category": "error",
+            "description": "This component is extremely unstable. Do not use!"
+        },
+        {
+            "category": "warning",
+            "description": "Effects are not consistent with minecraft:spell_effects. Doesn't expect an object."
+        }
+    ],
+    "add_html": ""
+}
