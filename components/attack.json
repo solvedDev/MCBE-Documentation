@@ -24,7 +24,8 @@
     "known_problems": [
         {
             "category": "error",
-            "description": "This component is extremely unstable. Do not use!"
+            "description": "This component is extremely unstable. Do not use!",
+            "version": "1.8.0+"
         },
         {
             "category": "warning",
