@@ -2,5 +2,9 @@
     {
         "name": "minecraft:attack",
         "link": "/components/attack.json"
+    },
+    {
+        "name": "minecraft:health",
+        "link": "/components/health.json"
     }
 ]

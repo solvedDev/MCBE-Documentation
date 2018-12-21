@@ -1,0 +1,46 @@
+{
+    "title": "minecraft:health",
+    "description": "...",
+    "structure": {
+        "value": {
+            "description": "",
+            "default": "-",
+            "variants": [
+                {
+                    "type": "Integer"
+                },
+                {
+                    "type": "Array"
+                }
+            ]
+        },
+        "max": {
+            "description": "",
+            "default": "-",
+            "variants": [
+                {
+                    "type": "Integer"
+                },
+                {
+                    "type": "Array"
+                }
+            ]
+        },
+        "min": {
+            "description": "",
+            "default": "-",
+            "variants": [
+                {
+                    "type": "Integer"
+                },
+                {
+                    "type": "Array"
+                }
+            ]
+        }
+    },
+    "known_problems": [
+        
+    ],
+    "add_html": ""
+}
