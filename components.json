@@ -1,6 +1,6 @@
 [
     {
         "name": "minecraft:attack",
-        "link": "/components/attack"
+        "link": "/components/attack.json"
     }
 ]
