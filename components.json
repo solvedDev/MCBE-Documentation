@@ -6,5 +6,9 @@
     {
         "name": "minecraft:health",
         "link": "/components/health.json"
+    },
+    {
+        "name": "test:load",
+        "link": "/components/test_load.json"
     }
 ]
