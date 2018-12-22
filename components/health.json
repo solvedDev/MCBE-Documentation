@@ -5,38 +5,17 @@
         "value": {
             "description": "",
             "default": "-",
-            "variants": [
-                {
-                    "type": "Integer"
-                },
-                {
-                    "type": "Array"
-                }
-            ]
+            "type": "Integer"
         },
         "max": {
             "description": "",
             "default": "-",
-            "variants": [
-                {
-                    "type": "Integer"
-                },
-                {
-                    "type": "Array"
-                }
-            ]
+            "type": "Integer"
         },
         "min": {
             "description": "",
             "default": "-",
-            "variants": [
-                {
-                    "type": "Integer"
-                },
-                {
-                    "type": "Array"
-                }
-            ]
+            "type": "Integer"
         }
     },
     "known_problems": [
