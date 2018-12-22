@@ -2,18 +2,11 @@
     "title": "minecraft:attack",
     "description": "Defines an entity's melee attack and any additional effects on it.",
     "structure": {
-        "damage": [
-            {
-                "description": "Damage the melee attack deals. A negative value can heal the entity instead of hurting it",
-                "default": "-",
-                "type": "Integer"
-            },
-            {
-                "description": "Range of the random amount of damage the melee attack deals. A negative value can heal the entity instead of hurting it",
-                "default": "-",
-                "type": "Array"
-            }
-        ],
+        "damage": {
+            "description": "Damage the melee attack deals. A negative value can heal the entity instead of hurting it",
+            "default": "-",
+            "type": ["Integer", "Array"]
+        },
         "effect_name": {
             "description": "Identifier of the status ailment to apply to an entity attacked by this entity's melee attack",
             "default": "-",
