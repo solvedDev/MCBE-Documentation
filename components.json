@@ -8,6 +8,10 @@
         "link": "/components/health.json"
     },
     {
+        "name": "minecraft:peek",
+        "link": "/components/peek.json"
+    },
+    {
         "name": "test:load",
         "link": "/components/test_load.json"
     }
