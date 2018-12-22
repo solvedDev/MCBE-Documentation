@@ -11,7 +11,7 @@
             "description": "Identifier of the status ailment to apply to an entity attacked by this entity's melee attack",
             "default": "-",
             "type": "String",
-            "minecraft_type": "Effect"
+            "minecraft_type": "effect"
         }
     },
     "known_problems": [

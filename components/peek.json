@@ -1,0 +1,49 @@
+{
+    "title": "minecraft:peek",
+    "description": "Defines the entity's 'peek' behavior, defining the events that should be called during it",
+    "structure": {
+        "on_close": {
+            "description": "Event to call when the entity is done peeking",
+            "default": "-",
+            "type": "Object",
+            "structure": {
+                "event": {
+                    "description": "String identifier of the event to call",
+                    "default": "-",
+                    "type": "String",
+                    "minecraft_type": "entity_event"
+                }
+            }
+        },
+        "on_open": {
+            "description": "Event to call when the entity is done peeking",
+            "default": "-",
+            "type": "Object",
+            "structure": {
+                "event": {
+                    "description": "String identifier of the event to call",
+                    "default": "-",
+                    "type": "String",
+                    "minecraft_type": "entity_event"
+                }
+            }
+        },
+        "on_target_open": {
+            "description": "Event to call when the entity is done peeking",
+            "default": "-",
+            "type": "Object",
+            "structure": {
+                "event": {
+                    "description": "String identifier of the event to call",
+                    "default": "-",
+                    "type": "String",
+                    "minecraft_type": "entity_event"
+                }
+            }
+        }
+    },
+    "known_problems": [
+        
+    ],
+    "add_html": ""
+}
