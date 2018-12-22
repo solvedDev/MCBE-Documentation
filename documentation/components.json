@@ -14,5 +14,9 @@
     {
         "name": "minecraft:spell_effects",
         "link": "/components/spell_effects.json"
+    },
+    {
+        "name": "minecraft:addrider",
+        "link": "/components/addrider.json"
     }
 ]
