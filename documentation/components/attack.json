@@ -3,7 +3,7 @@
     "description": "Defines an entity's melee attack and any additional effects on it.",
     "structure": {
         "damage": {
-            "description": "Damage the melee attack deals. A negative value can heal the entity instead of hurting it",
+            "description": "Range of the random amount of damage the melee attack deals. A negative value can heal the entity instead of hurting it",
             "default": "-",
             "type": ["Integer", "Array"]
         },
@@ -12,6 +12,11 @@
             "default": "-",
             "type": "String",
             "minecraft_type": "effect"
+        },
+        "effect_duration": {
+            "description": "Duration in seconds of the status ailment applied to the damaged entity",
+            "default": 0.0,
+            "type": "Decimal"
         }
     },
     "known_problems": [
@@ -51,6 +56,5 @@
             "category": "info",
             "description": "Effects are not consistent with minecraft:spell_effects. Doesn't expect an object."
         }
-    ],
-    "add_html": ""
+    ]
 }
