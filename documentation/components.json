@@ -10,5 +10,9 @@
     {
         "name": "minecraft:peek",
         "link": "/components/peek.json"
+    },
+    {
+        "name": "minecraft:spell_effects",
+        "link": "/components/spell_effects.json"
     }
 ]
