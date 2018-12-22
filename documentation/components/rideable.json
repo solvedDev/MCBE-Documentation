@@ -1,0 +1,45 @@
+{
+    "title": "minecraft:rideable",
+    "description": "Determines whether this entity can be ridden. Allows specifying the different seat positions and quantity.",
+    "structure": {
+        "controlling_seat": {
+            "description": "The seat that designates the driver of the entity",
+            "default": 0,
+            "type": "Integer"
+        },
+        "seat_count": {
+            "description": "The number of entities that can ride this entity at the same time",
+            "default": 1,
+            "type": "Integer"
+        },
+        "seats": {
+            "description": "The list of positions and number of riders for each position for entities riding this entity",
+            "type": "Array",
+            "minecraft_type": "rider_seat",
+            "structure": {
+
+            }
+        }
+    },
+    "known_problems": [
+        {
+            "category": "info",
+            "description": "Entities being ridden cannot use minecraft:spawn_entity.",
+            "version": "1.6.0+"
+        }
+    ],
+    "example": {
+        "minecraft:rideable": {
+            "priority": 0,
+            "seat_count": 1,
+            "crouching_skip_interact": true,
+            "family_types": [
+                "player"
+            ],
+            "interact_text": "action.interact.ride.horse",
+            "seats": {
+                "position": [ 0.0, 1.1, -0.2 ]
+            }
+        }
+    }
+}

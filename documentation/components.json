@@ -18,5 +18,9 @@
     {
         "name": "minecraft:addrider",
         "link": "/components/addrider.json"
+    },
+    {
+        "name": "minecraft:rideable",
+        "link": "/components/rideable.json"
     }
 ]
