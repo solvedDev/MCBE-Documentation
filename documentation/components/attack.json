@@ -18,43 +18,5 @@
             "default": 0.0,
             "type": "Decimal"
         }
-    },
-    "known_problems": [
-        {
-            "category": "error",
-            "description": "This component is extremely unstable. Do not use!",
-            "version": "1.8.0+"
-        },
-        {
-            "category": "warning",
-            "description": "Effects are not consistent with minecraft:spell_effects. Doesn't expect an object."
-        },
-        {
-            "category": "info",
-            "description": "This component is extremely unstable. Do not use!",
-            "version": "1.8.0+"
-        },
-        {
-            "category": "success",
-            "description": "Effects are not consistent with minecraft:spell_effects. Doesn't expect an object."
-        },
-        {
-            "category": "info",
-            "description": "This component is extremely unstable. Do not use!",
-            "version": "1.8.0+"
-        },
-        {
-            "category": "success",
-            "description": "Effects are not consistent with minecraft:spell_effects. Doesn't expect an object. Effects are not consistent with minecraft:spell_effects. Doesn't expect an object. Effects are not consistent with minecraft:spell_effects. Doesn't expect an object. Effects are not consistent with minecraft:spell_effects. Doesn't expect an object. Effects are not consistent with minecraft:spell_effects. Doesn't expect an object."
-        },
-        {
-            "category": "error",
-            "description": "This component is extremely unstable. Do not use!",
-            "version": "1.8.0+"
-        },
-        {
-            "category": "info",
-            "description": "Effects are not consistent with minecraft:spell_effects. Doesn't expect an object."
-        }
-    ]
+    }
 }
