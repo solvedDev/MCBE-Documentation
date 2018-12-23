@@ -1,24 +1,21 @@
 {
     "title": "minecraft:health",
-    "description": "...",
+    "description": "Defines an entity's health.",
     "structure": {
         "value": {
-            "description": "",
+            "description": "Amount of health to set upon adding the component",
             "default": "-",
             "type": "Integer"
         },
         "max": {
-            "description": "",
+            "description": "Maximum amount of health",
             "default": "-",
             "type": "Integer"
         },
         "min": {
-            "description": "",
+            "description": "Minimum amount of health",
             "default": "-",
             "type": "Integer"
         }
-    },
-    "known_problems": [
-        
-    ]
+    }
 }
