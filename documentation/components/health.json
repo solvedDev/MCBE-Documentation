@@ -3,17 +3,17 @@
     "description": "Defines an entity's health.",
     "structure": {
         "value": {
-            "description": "Amount of health to set upon adding the component",
+            "description": "The initial amount of health (upon adding the component)",
             "default": "-",
             "type": "Integer"
         },
         "max": {
-            "description": "Maximum amount of health",
+            "description": "The maximum amount of health",
             "default": "-",
             "type": "Integer"
         },
         "min": {
-            "description": "Minimum amount of health",
+            "description": "The minimum amount of health",
             "default": "-",
             "type": "Integer"
         }

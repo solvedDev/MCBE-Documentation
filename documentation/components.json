@@ -26,5 +26,9 @@
     {
         "name": "minecraft:spawn_entity",
         "link": "/components/spawn_entity.json"
+    },
+    {
+        "name": "minecraft:strength",
+        "link": "/components/strength.json"
     }
 ]
