@@ -43,7 +43,11 @@
         }
     },
     "known_problems": [
-        
+        {
+            "category": "error",
+            "description": "Causes crash when used on player.",
+            "version": "1.8.0+"
+        }
     ],
     "example": {
         "minecraft:peek": {
